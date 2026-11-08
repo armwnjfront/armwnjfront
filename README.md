@@ -4,7 +4,9 @@
 
 I build web applications using modern frontend technologies.
 
-### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,wordpress,git,github,vscode" />
+</p>
 
 - 🌐 **Languages:** HTML, CSS, JavaScript
 - ⚛️ **Frameworks:** React, Next.js
